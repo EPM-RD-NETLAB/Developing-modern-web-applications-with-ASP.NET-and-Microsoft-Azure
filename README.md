@@ -24,7 +24,7 @@
 ## <a name="1"></a> Online stage (внешний)
  - возможность обучения для каждого, независимо от возраста, профессиональной занятости и места жительства;
  - продолжительность 1 месяц;
- - индивидуальная программа изучения и менторинг [grow.by Программа вводного занятия](https://grow.by/invite/AddTemplate/3244?mentorId=2012);
+ - индивидуальная программа изучения и менторинг [grow.by Программа вводного занятия](https://grow.by/templateView/3244);
  - online Q&A sessions - 1 раз в неделю (возможность просмотреть видеозапись);
 ### <a name="content1"></a> Content 
    - Visual Studio. [Visual Studio IDE documentation](https://docs.microsoft.com/en-us/visualstudio/ide/?view=vs-2017)
